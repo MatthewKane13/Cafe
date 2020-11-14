@@ -1,0 +1,34 @@
+Img 
+{
+width: 50vw;
+height: 80%;
+display:block;
+margin-left:25vw;
+border-radius:30% ;
+border: 5px double blue;
+}
+h1, p, Img
+{
+text-align: center;
+}
+body 
+{
+background-color:Aquamarine ;
+}
+h1 
+{
+font-size:78px;
+font-family: 'Source Code Pro', monospace;
+font-weight: 400;
+border-bottom: 10px solid aqua ;
+}
+p 
+{
+font-size:45;
+font-family: 'Comfortaa', cursive;
+}
+h1:hover, p:hover
+{
+background-color: cadetblue;
+border: 10px solid blue;
+}
